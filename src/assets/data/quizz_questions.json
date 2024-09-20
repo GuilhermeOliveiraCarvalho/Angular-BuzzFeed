@@ -1,0 +1,128 @@
+{
+  "title": "What kind of Developer would you be?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What part of a project excites you the most?",
+      "options": [
+        { "id": 1, "name": "🚀 Building efficient systems", "alias": "A" },
+        { "id": 2, "name": "🎨 Designing intuitive user interfaces", "alias": "B" },
+        { "id": 3, "name": "🔌 Integrating APIs and services", "alias": "C" },
+        { "id": 4, "name": "🧠 Solving complex algorithms", "alias": "D" },
+        { "id": 5, "name": "🕹 Creating immersive game experiences", "alias": "G" },
+        { "id": 6, "name": "💻 Doing everything from frontend to backend", "alias": "H" },
+        { "id": 7, "name": "🔍 Ensuring the system is safe and secure", "alias": "E" },
+        { "id": 8, "name": "😬 I’m just trying not to break everything 😭", "alias": "I" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which tools or technologies do you enjoy the most?",
+      "options": [
+        { "id": 1, "name": "🐘 Databases like PostgreSQL or MySQL", "alias": "A" },
+        { "id": 2, "name": "💻 JavaScript frameworks like React or Angular", "alias": "B" },
+        { "id": 3, "name": "🔧 API development tools like Postman", "alias": "C" },
+        { "id": 4, "name": "🧮 Data structures & algorithms", "alias": "D" },
+        { "id": 5, "name": "🎮 Game engines like Unity or Unreal", "alias": "G" },
+        { "id": 6, "name": "🌐 Both frontend and backend tools", "alias": "H" },
+        { "id": 7, "name": "🔐 Security frameworks like OWASP", "alias": "E" },
+        { "id": 8, "name": "🤯 Help, I don't understand any of this! 😭", "alias": "I" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How do you prefer working in a team?",
+      "options": [
+        { "id": 1, "name": "🛠 Building core system architecture", "alias": "A" },
+        { "id": 2, "name": "🎨 Collaborating with designers on UI/UX", "alias": "B" },
+        { "id": 3, "name": "🔗 Managing API integrations", "alias": "C" },
+        { "id": 4, "name": "🧠 Leading code optimization", "alias": "D" },
+        { "id": 5, "name": "🎮 Designing fun and immersive game levels", "alias": "G" },
+        { "id": 6, "name": "🌐 Taking care of everything, frontend to backend", "alias": "H" },
+        { "id": 7, "name": "🔒 Monitoring for security vulnerabilities", "alias": "E" },
+        { "id": 8, "name": "😬 Hoping I don’t mess things up", "alias": "I" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What problem-solving approach resonates with you?",
+      "options": [
+        { "id": 1, "name": "🔍 Optimizing backend logic", "alias": "A" },
+        { "id": 2, "name": "💡 Creative problem-solving for user experiences", "alias": "B" },
+        { "id": 3, "name": "🔗 Ensuring seamless communication between services", "alias": "C" },
+        { "id": 4, "name": "📊 Solving data challenges", "alias": "D" },
+        { "id": 5, "name": "🎮 Building engaging gameplay mechanics", "alias": "G" },
+        { "id": 6, "name": "🌐 Finding a balance between front and backend", "alias": "H" },
+        { "id": 7, "name": "🔒 Securing application infrastructure", "alias": "E" },
+        { "id": 8, "name": "😬 Just trying to keep things running", "alias": "I" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which project would you love to lead?",
+      "options": [
+        { "id": 1, "name": "🚀 A database optimization project", "alias": "A" },
+        { "id": 2, "name": "🎨 Designing a beautiful mobile app", "alias": "B" },
+        { "id": 3, "name": "🔌 Developing an API infrastructure", "alias": "C" },
+        { "id": 4, "name": "🧠 A machine learning project", "alias": "D" },
+        { "id": 5, "name": "🎮 A video game project with stunning graphics", "alias": "G" },
+        { "id": 6, "name": "🌐 Building a full-stack web app", "alias": "H" },
+        { "id": 7, "name": "🛡 Securing data for a global enterprise", "alias": "E" },
+        { "id": 8, "name": "🤯 No idea, I’m overwhelmed 😭", "alias": "I" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How do you prefer to organize your code?",
+      "options": [
+        { "id": 1, "name": "🛠 Creating structured, efficient backend code", "alias": "A" },
+        { "id": 2, "name": "🎨 Keeping UI components modular and reusable", "alias": "B" },
+        { "id": 3, "name": "🔗 Organizing API routes and responses", "alias": "C" },
+        { "id": 4, "name": "📊 Breaking down complex data models", "alias": "D" },
+        { "id": 5, "name": "🎮 Designing game loops and levels", "alias": "G" },
+        { "id": 6, "name": "🌐 Structuring both frontend and backend cohesively", "alias": "H" },
+        { "id": 7, "name": "🔒 Ensuring code is secure and robust", "alias": "E" },
+        { "id": 8, "name": "😬 Trying not to break anything", "alias": "I" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which development environment would you choose?",
+      "options": [
+        { "id": 1, "name": "🖥 Command-line tools and databases", "alias": "A" },
+        { "id": 2, "name": "💻 Design-heavy environments like Figma", "alias": "B" },
+        { "id": 3, "name": "🔧 API testing tools like Postman", "alias": "C" },
+        { "id": 4, "name": "🧮 Environments for complex data analysis", "alias": "D" },
+        { "id": 5, "name": "🎮 Game engines like Unity or Unreal", "alias": "G" },
+        { "id": 6, "name": "🌐 Full stack setups like VSCode", "alias": "H" },
+        { "id": 7, "name": "🔐 Security-focused environments", "alias": "E" },
+        { "id": 8, "name": "😬 Anything simple, please!", "alias": "I" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What does your ideal workday look like?",
+      "options": [
+        { "id": 1, "name": "🚀 Solving complex backend challenges", "alias": "A" },
+        { "id": 2, "name": "🎨 Creating beautiful and functional designs", "alias": "B" },
+        { "id": 3, "name": "🔗 Ensuring seamless API communication", "alias": "C" },
+        { "id": 4, "name": "🧠 Crunching numbers and optimizing algorithms", "alias": "D" },
+        { "id": 5, "name": "🎮 Working on the next big gaming experience", "alias": "G" },
+        { "id": 6, "name": "🌐 Building features for both frontend and backend", "alias": "H" },
+        { "id": 7, "name": "🔒 Making sure everything is secure", "alias": "E" },
+        { "id": 8, "name": "😬 Trying to get through without breaking things", "alias": "I" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "You would be a **Backend Developer**! Backend developers focus on building and optimizing the core logic, databases, and server-side functionalities that power the application. You're skilled at creating efficient systems that ensure the app runs smoothly and can scale. You might work with languages like Python, Node.js, or Java, and your role is crucial in handling data, business logic, and performance.",
+    "B": "You would be a **Frontend Developer**! As a frontend developer, you focus on creating the parts of the app that users interact with. Your designs are both functional and aesthetically pleasing, ensuring that users have a smooth and enjoyable experience. You might work with HTML, CSS, and JavaScript frameworks like React or Angular, and you collaborate closely with designers to bring their visions to life.",
+    "C": "You would be an **API/Integration Developer**! API developers focus on creating and managing the communication between different systems or components of an application. You are the bridge that ensures data flows smoothly from the backend to the frontend (and vice versa) and between external services. You’re skilled in REST, GraphQL, and various integration tools like Postman, making you an essential part of modern web development.",
+    "D": "You would be a **Data Scientist/Algorithm Developer**! As a data scientist or algorithm developer, your passion lies in crunching numbers, finding patterns, and solving complex problems with data. You might work on machine learning models, data optimization, and algorithm development to provide powerful insights and solutions. Languages like Python, R, or SQL are your bread and butter, and you thrive in turning raw data into actionable knowledge.",
+    "E": "You would be a **Security Engineer**! As a security engineer, you ensure the application and its infrastructure are safe from malicious attacks. You’re highly knowledgeable about encryption, firewalls, and other security protocols that keep data secure. Your expertise helps safeguard sensitive information, making you essential in industries like finance, healthcare, and government where security is paramount.",
+    "F": "You would be a **Quality Assurance Engineer**! QA engineers focus on testing and ensuring that applications work as intended. You find bugs, test different use cases, and ensure the final product meets quality standards before it reaches users. You use automated testing tools and write scripts that simulate real-world scenarios, ensuring the app functions seamlessly and is free of defects.",
+    "G": "You would be a **Game Developer**! Game developers combine creativity and technical skills to bring interactive experiences to life. Whether you're building visually stunning AAA titles or quirky indie games, you're passionate about gameplay mechanics, storytelling, and user immersion. Your toolkit may include Unity, Unreal Engine, and programming languages like C# or C++. You live for creating fun, engaging, and unforgettable gaming experiences!",
+    "H": "You would be a **Full Stack Developer**! As a full stack developer, you're the Swiss Army knife of the development world. You handle both the frontend and backend of applications, seamlessly switching between creating beautiful interfaces and working on core server logic. You have a diverse skill set and might work with databases, APIs, server infrastructure, and JavaScript frameworks. You're the go-to person for end-to-end solutions!",
+    "I": "Sorry, but it seems **programming might not be for you**. Don't worry! We all have different strengths. Maybe try something else or go back and cry to your mommy! 😭 But hey, don’t give up — every expert was once a beginner!"
+  }
+}
